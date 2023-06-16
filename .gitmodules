@@ -1,0 +1,6 @@
+[submodule "electric-kiwi-export/electric-kiwi-export"]
+	path = electric-kiwi-export/electric-kiwi-export
+	url = https://github.com/jonohill/electric-kiwi-export.git
+[submodule "electric-kiwi-export/electrickiwi"]
+	path = electric-kiwi-export/electrickiwi
+	url = https://github.com/jonohill/electric-kiwi-export.git
