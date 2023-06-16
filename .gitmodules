@@ -1,3 +1,0 @@
-[submodule "electric-kiwi-export/electrickiwi.api"]
-	path = electric-kiwi-export/electrickiwi
-	url = https://github.com/matthuisman/electrickiwi.api.git
